@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 A small tool that generates **pixel-perfect level schemas** for a 2D platformer
 level constructor. Press "Generate" and get a fresh, valid, playable room — as a
 repeatable process, not a lucky one-off.
