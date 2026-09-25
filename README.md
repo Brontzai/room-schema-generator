@@ -4,6 +4,7 @@ A small tool that generates **pixel-perfect level schemas** for a 2D platformer
 level constructor. Press "Generate" and get a fresh, valid, playable room — as a
 repeatable process, not a lucky one-off.
 
+
 Each pixel = 1×1 m of game space; each color = an object type the game's level
 constructor places (walls, pass-through platforms, ladders, doors, destructible
 decor, enemies).
